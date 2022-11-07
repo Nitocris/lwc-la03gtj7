@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/nitocris.lwc-la03gtj7",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve uQdKQRQ1B5Ro0js48o9d --open"
+  }
+}
